@@ -1,4 +1,4 @@
-# Motion Patches
+# SGAR
 
 Code of the paper "SGAR: Structural Generative Augmentation for 3D Human Motion Retrieval" (NeurIPS 2025).
 

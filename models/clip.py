@@ -128,7 +128,6 @@ class MotionEncoder(nn.Module):
             param.requires_grad = trainable
 
         self.target_token_idx = 0
-        self.mask = generate_part_mask()
     
     def forward(self, x, length=None, patch_idx=None):
         '''

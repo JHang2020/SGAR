@@ -5,6 +5,7 @@ Code of the paper "SGAR: Structural Generative Augmentation for 3D Human Motion 
 [![paper](https://img.shields.io/badge/arxiv-paper-orange)](https://openreview.net/pdf/1d98cebdbc17f9dacf4861cfbd15a16f71dd3e8a.pdf)
 <a href='https://jhang2020.github.io/Projects/SGAR/SGAR.html'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 
+Our extended work [MoLA](https://github.com/JHang2020/MoLA), "Unified Human Motion Pretraining via Generative Chrono-Structural Decomposition and Alignment" has been accepted by TPAMI!
 
 ## Framework
 
